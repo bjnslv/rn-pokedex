@@ -2,12 +2,12 @@ import React, {useEffect} from 'react';
 import {Provider} from 'react-redux';
 import {SafeAreaView, StyleSheet, ScrollView, View, Text, StatusBar} from 'react-native';
 
-const App = () => {
+const Card = () => {
   return (
     <View>
-      <Text>App</Text>
+      <Text>Card</Text>
     </View>
   );
 };
 
-export default App;
+export default Card;
